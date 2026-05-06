@@ -69,6 +69,19 @@ Surya-Glow/
 └── README.md
 
 ```
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Skin Assessment
+![Quiz](screenshots/quiz.png)
+
+### Personalized Recommendations
+![Results](screenshots/results.png)
+
+### Mobile View
+![Mobile](screenshots/mobile.png)
 
 ## 🤝 Contributing
 
